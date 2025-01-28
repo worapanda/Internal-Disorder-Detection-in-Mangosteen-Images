@@ -20,4 +20,12 @@ The training and validating performances (i.e., accuracy, F1-score, precision, r
 
 ![image](https://github.com/user-attachments/assets/f7cf79b3-b0f7-4c18-9333-a096e5912d75)
 
+The training and validating performances (i.e., accuracy, F1-score, precision, recall, and loss) of the transfer learning evaluation (i.e., train on D3 and test on D1) using multi-class model classifying translucent flesh disorder and rotten condition. The blue and gray lines represent the training and validating performances respectively.
+
+![image](https://github.com/user-attachments/assets/53de4a87-a143-47fe-9576-8fce66f03c78)
+
+The training and validating performances (i.e., accuracy, F1-score, precision, recall, and loss) of the transfer learning evaluation (i.e., train on D3 and test on D2) using multi-class model classifying translucent flesh disorder and rotten condition. The orange and gray lines represent the training and validating performances respectively.
+
+![image](https://github.com/user-attachments/assets/68f3f0d9-0299-4f41-9570-05c407be153d)
+
 
