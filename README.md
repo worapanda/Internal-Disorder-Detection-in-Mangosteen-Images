@@ -5,3 +5,6 @@ The training and validating performances (i.e., accuracy, F1-score, precision, r
 
 The training and validating performances (i.e., accuracy, F1-score, precision, recall, and loss) of the binary model classifying translucent flesh disorder. The purple and green lines represent the training and validating performances respectively.
 ![image](https://github.com/user-attachments/assets/3507b62c-edbb-4341-90a0-66e5c31f0aea)
+
+The training and validating performances (i.e., accuracy, F1-score, precision, recall, and loss) of the multi-class model classifying translucent flesh disorder and rotten condition. The red and yellow lines represent the training and validating performances respectively.
+![image](https://github.com/user-attachments/assets/f801e6c1-5a99-4993-9ca9-03cbfb7e640e)
